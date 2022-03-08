@@ -23,3 +23,5 @@ Utiliza cualquier objeto que le proporcione cubierta. Después, hace una carrera
 Algunas veces dos leones se aproximan a una presa en direcciones opuestas, si uno falla, el otro trata de atraparla cuando huye. Una manada entera puede atacar adoptando una formación de abanico desplegado, y entonces acorralan a la presa de todos lados. Se ha comprobado que al actuar en equipo, el león tienen el doble de posibilidades de captura que actuando individualmente.
 
 La mayor parte de los intentos fallan, de 61 acechos observados solo 10 fueron exitosos. El león, en realidad, captura y come cualquier presa que pueda capturar, pero depende en gran medida de animales cuyos pesos fluctúan entre 50 y 300 Kg. Un macho adulto puede llegar a devorar hasta 40 Kg. de carne en una sola comida. Después de la matanza, un león puede descansar en la proximidad de los restos por varios días. Cada león mata de 10 a 20 animales grandes por año.
+
+### ***[habitat](./habitat.md) |[alimentacion](./alimentacion.md) |[morfologia](./morfologia.md)|[forma de vida](./formadevida.md) |***
