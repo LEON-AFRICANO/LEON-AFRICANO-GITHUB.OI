@@ -1,8 +1,8 @@
 # De ahora en adelante podras contactar con nosotros por medio de nuestros sitios web y redes sociales   
 
 ***podras ponerte en contaco por medio de nuestro numero oficial***   
-
- 55-54-72-61-**
+![wa link_val6mw](https://user-images.githubusercontent.com/99847355/158484567-17232bd0-7f31-4f21-94d9-e9925dc05545.png)   
+ en este contacto podras preguntar y solucionar tus dudas
  
  ***y por nuestro correo electronico***   
  
